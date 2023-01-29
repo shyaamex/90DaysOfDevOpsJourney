@@ -1,8 +1,23 @@
+# Learnings of Day 2
+
+<img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-Download-Image.png" alt=linux align=right length=300 width=300>
+
+<br>
+
 ## Basic linux commands
+
+
+
+
 1. Listing Command ( ls )
 2. Directory commands
-<br><br><br><br>
-### ls command
+
+
+<br>
+<br>
+<br>
+
+## ls command
 This command is used to list all the directories and files of present working directories.
 
 Syntax: ```ls <option> ``` 
@@ -20,24 +35,34 @@ We can use ls with various options such as :
 - list only directories.(we can also specify a pattern) <br>
   ``` ls -d */```
 
-### Directoy commands
-- #pwd
+## Directoy commands
+- #### pwd
   print work directory. Gives the present working directory. <br>
   ```pwd```
 
-- # cd
+- #### cd
   change directory to the provided path <br>
   ```cd path_to_directory```
 
-- ```cd ~ ``` or just  ```cd ``` --> change directory to the home directory
+- #### cd/cd ~
+  change directory to the home directory <br>
+  ```cd ~ ``` or  ```cd ``` 
 
-- ``` cd - ``` --> Go to the last working directory.
+- #### cd - 
+  Go to the last working directory <br>
+  ``` cd - ``` 
 
-- ``` cd ..``` --> chnage directory to one step back.
+- #### cd ..
+  change directory to one step back  <br>
+  ``` cd ..```
 
-- ``` cd ../..``` --> Change directory to 2 levels back.
+- #### cd ../..
+  Change directory to 2 levels back <br>
+  ``` cd ../..``` 
 
-- ``` mkdir  directoryName``` --> to make a directory in a specific location
+- #### mkdir
+  To make a directory in a specific location <br>
+  ``` mkdir  directoryName```
 
 Examples:
 ```
