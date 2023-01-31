@@ -27,3 +27,4 @@ The key aspects or principle behind DevOps is:
 * Jenkins
 * Terraform
 * Ansible
+* Chef
