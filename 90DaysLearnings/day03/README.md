@@ -1,5 +1,6 @@
 # Learnings of Day 3
-
+<img  width=400 src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png" align=right>
+     
 ## Basic Linux Commands
 
 ### 1. Command to see the content of a file<br>
