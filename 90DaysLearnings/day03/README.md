@@ -3,6 +3,7 @@
 ## Basic Linux Commands
 
 ### 1. Command to see the content of a file<br>
+<img width="317" alt="Capture1" src="https://user-images.githubusercontent.com/115785301/215730681-5ae01d0b-6c44-4f75-8ecf-533ece34d278.PNG">
 
 
 
