@@ -1,3 +1,7 @@
+# Learnings of Day 2
+
+<img  width=400 src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png" align=right>
+
 ## Basic linux commands
 
 ### List command
