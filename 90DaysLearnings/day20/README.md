@@ -35,8 +35,9 @@ Here, is the ultimate cheatsheet for Docker  🐳
 
 #### 4.) Docker commands to retrieve Information and Stats about Docker
 <br>
-<img src="https://user-images.githubusercontent.com/115785301/215695265-5f51f3a8-24e5-4193-9484-8659bcaa421a.png" alt=Cheatsheet1 length=500 width=500 >
+<img src="https://user-images.githubusercontent.com/115785301/216018857-21f82354-73c5-4ea3-9042-3f08aee62aaa.png" alt=Cheatsheet1 length=500 width=500 >
 <br>
+
 
 
 
