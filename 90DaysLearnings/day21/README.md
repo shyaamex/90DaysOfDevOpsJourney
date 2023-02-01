@@ -45,5 +45,5 @@
 34.  How to use docker for multiple application environments?
 35.  How will you ensure that a container 1 runs before container 2 while using docker compose?
 
-### Check-out the solutions 
-<a href="https://github.com/shyaamex/90DaysOfDevOpsJourney/blob/master/90DaysLearnings/day21/learnings.md"> Click here for Solutions </a>
+### Check-out the solutions 👇👇
+<a href="https://github.com/shyaamex/90DaysOfDevOpsJourney/blob/master/90DaysLearnings/day21/Solutions%20of%20Docker%20Interview%20Questions.pdf"> Click here for Solutions </a>
