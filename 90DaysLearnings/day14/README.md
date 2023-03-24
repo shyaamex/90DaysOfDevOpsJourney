@@ -1,0 +1,47 @@
+# Learnings of Day 14
+
+I've learnt YAML concepts and documented them in a blog, This blog is available at Hashnode
+
+You can access the blog <a href="https://syaamex.hashnode.dev/lets-begin-with-yaml" > here </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
