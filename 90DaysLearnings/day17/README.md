@@ -52,6 +52,13 @@ is stopped. This means that even if a container is shut down, the data stored in
 by other containers.
 
 
+<br><br><br>
+
+## Docker Swarm
+
+Docker Swarm is a tool that allows you to easily manage and organize multiple containers, which are small packages 
+that hold all the necessary files for a specific application to run. The way it works is by dividing the management 
+of the containers into two parts: manager nodes and worker nodes.
 
 
 
