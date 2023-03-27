@@ -10,6 +10,21 @@ can quickly deploy and scale applications into any environment and know your cod
 
 
 
+## Basic Docker commands
+<br>
+
+`docker run` <br>command to start a new container and interact with it through the command line. <br> <br>
+`docker inspect` <br>command to view detailed information about a container or image <br><br>
+`docker port` <br>command to list the port mappings for a container <br><br>
+`docker stats` <br>command to view resource usage statistics for one or more containers <br><br>
+`docker top` <br>command to view the processes running inside a container <br><br>
+`docker save` <br>command to save an image to a tar archive <br><br>
+ `docker load` <br>command to load an image from a tar archive <br><br>
+
+
+
+
+
 
 
 
