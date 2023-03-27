@@ -35,6 +35,27 @@ networks, and volumes for your application in a single file. This file is called
 
 <br><br><br>
 
+## Docker-Volume
+
+Docker also allows you to create something called volumes. Volumes are like separate storage areas that can 
+be accessed by containers. They allow you to store data, like a database, outside the container, so it doesn't 
+get deleted when the container is deleted.
+
+When we run a container, it has its own storage space that is only accessible by that specific container. If 
+we want to share that storage space with other containers, we can't do that.
+
+
+
+Docker Volumes are a solution to this problem. Volumes are like extra storage spaces that can be used by multiple 
+containers at the same time. They are stored separately from the containers and can survive even if the container 
+is stopped. This means that even if a container is shut down, the data stored in the volume can still be accessed 
+by other containers.
+
+
+
+
+
+
 
 
 
