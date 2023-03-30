@@ -8,7 +8,7 @@ Then there are automated tools that build the newly committed code and do a code
 
 
 
-The key goals of Continuous Integration are to find and address bugs quicker, make the process of integrating code across a team of developers 
+- The key goals of Continuous Integration are to find and address bugs quicker, make the process of integrating code across a team of developers 
 easier, improve software quality and reduce the time it takes to release new feature updates. 
 
 
