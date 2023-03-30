@@ -18,6 +18,9 @@ Jenkins achieves Continuous Integration with the help of plugins. Plugins allow 
 If you want to integrate a particular tool, you need to install the plugins for that tool. For example Git, Maven 2 project, 
 Amazon EC2, HTML publisher etc.
 
+
+<br><br><br>
+
 ### Let us do discuss the necessity of this tool before going ahead to the procedural part for installation:
 
 Nowadays, humans are becoming lazy😴 day by day so even having digital screens and just one click button in front of us then also need some automation.
