@@ -1,4 +1,8 @@
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" width=200 align=left>
+
 # Learnings of Day 25 
+
+<br><br><br><br><br><br>
 
 # Jenkins Declarative Pipeline
 
