@@ -38,7 +38,25 @@ Go has three basic data types:
 - **Numeric:** represents integer types, floating point values, and complex types
 - **string:** represents a string value
 
+````
 
+package main
+import ("fmt")
+
+func main() {
+  var a bool = true     // Boolean
+  var b int = 5         // Integer
+  var c float32 = 3.14  // Floating point number
+  var d string = "Hi!"  // String
+
+  fmt.Println("Boolean: ", a)
+  fmt.Println("Integer: ", b)
+  fmt.Println("Float:   ", c)
+  fmt.Println("String:  ", d)
+}
+
+
+````
 
 
 For more your can refer to my other repository <a href="https://github.com/shyaamex/Lets-Go"> here </a>
